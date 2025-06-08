@@ -55,9 +55,9 @@ text
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/883e4904-4434-43d8-8d28-7266be91ae11" width="250" alt="Screenshot 1" />
-  <img src="https://github.com/user-attachments/assets/e2313330-7d5c-48be-b2ed-f73d705ee270" width="250" alt="Screenshot 2" />
-  <img src="https://github.com/user-attachments/assets/ee68e5c5-7ccc-4b51-8d16-01ac7074a5c3" width="250" alt="Screenshot 3" />
+  <img src="https://github.com/user-attachments/assets/1aa80af6-45a4-448d-ad47-9619996878f3" width="250" alt="Screenshot 1"/>
+  <img src="https://github.com/user-attachments/assets/61b12107-6708-44d4-809b-08365dcae2ec" width="250" alt="Screenshot 2"/>
+  <img src="https://github.com/user-attachments/assets/8a7126e1-5837-4174-8109-abbee769394f" width="250" alt="Screenshot 3"/>
 </p>
 
 📧 License
