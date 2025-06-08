@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign-in</title>
+    <link rel="stylesheet" href="style.css">
+    <link href='https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap' rel='stylesheet'>
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+    <div class="wrapper reg">
+        <form id="registerForm">
+            <h1>Registration Page</h1>
+            <p id="check"></p>
+            <div class="input-box reg">
+                <div class="input-field">
+                    <i class='bx bxs-user'></i>
+                    <input type="text" placeholder="Username" id="register-username" required>
+                </div>
+                <div class="input-field">
+                    <i class='bx bxs-envelope'></i>
+                    <input type="email" placeholder="Email" id="register-email" required>
+                </div>
+                <div class="input-field">
+                    <i class='bx bxs-phone'></i>
+                    <input type="tel" placeholder="Phone Number" id="register-pnumber" required pattern="[0-9]{10}">
+                </div>
+                <div class="input-field">
+                    <i class='bx bxs-lock-alt'></i>
+                    <input type="password" placeholder="Password" id="register-password" required>
+                </div>
+            </div>
+            <div class="remember-forgot">
+                <label><input type="checkbox" id="register-declaration" required> Please tick the above check box.</label>
+            </div>
+            <br>
+            <button type="submit" class="btn" id="register-submit">Register</button>
+            <br>
+        </form>
+    </div>
+    <script type="module" src="app.js"></script>
+</body>
+</html>

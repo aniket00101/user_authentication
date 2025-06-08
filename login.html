@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="style.css">
+    <link href='https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap' rel='stylesheet'>
+</head>
+<body>
+    <div class="wrapper">
+        <form id="loginForm" autocomplete="off">
+            <h2>Login</h2>
+            <p id="error"></p>
+            <div class="input-box">
+                <span class="icon"><ion-icon name="mail"></ion-icon></span>
+                <input type="email" name="email" placeholder="Email" required id="login-email">
+            </div>
+            <div class="input-box">
+                <span class="icon"><ion-icon name="lock-closed"></ion-icon></span>
+                <input type="password" name="password" placeholder="Password" required id="login-password">
+            </div>
+            <div class="remember-forgot">
+                <label>
+                    <input type="checkbox" id="login-declaration" name="remember_me"> Remember me
+                </label>
+                <a href="resetpassword.html">Forgot password?</a>
+            </div>
+            <br>
+            <button type="submit" id="login-submit">Sign In</button>
+            <div class="register-link">
+                <p>Don't have an account? <a href="registration.html">Sign Up</a></p>
+            </div>
+        </form>
+    </div>
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    <script type="module" src="app.js"></script>
+</body>
+</html>
