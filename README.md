@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#e74c3c;">Welcome</h1>
-# 🔒 Firebase Auth Starter – Login, Registration & Reset Password
+Firebase Auth Starter – Login, Registration & Reset Password
 
 This project is a simple, modern authentication system built with HTML, CSS, and JavaScript using Firebase Authentication as the backend. It includes:
 
@@ -52,6 +52,14 @@ text
 ├── app.js
 
 └── README.md
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/883e4904-4434-43d8-8d28-7266be91ae11" width="250" alt="Screenshot 1" />
+  <img src="https://github.com/user-attachments/assets/e2313330-7d5c-48be-b2ed-f73d705ee270" width="250" alt="Screenshot 2" />
+  <img src="https://github.com/user-attachments/assets/ee68e5c5-7ccc-4b51-8d16-01ac7074a5c3" width="250" alt="Screenshot 3" />
+</p>
+
 📧 License
 This project is open source and free to use for learning and personal projects.
 
