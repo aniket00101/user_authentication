@@ -1,3 +1,5 @@
+# User-Authentication
+
 <h1 align="center" style="color:#e74c3c;">Welcome</h1>
 Firebase Auth Starter – Login, Registration & Reset Password
 
